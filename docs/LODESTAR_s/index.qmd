@@ -1,0 +1,107 @@
+---
+title: "LODESTAR Trial"
+subtitle: "T2T vs high-statin"
+format: html
+editor: visual
+---
+
+```{r}
+```
+
+## 
+
+Treat-to-Target (T2T)
+
+:   만성질환관리에서 구체적인 특정 치료목표를 미리 정해두고 도달시까지 적극적으로 조절 및 강화하는 의료 전략
+
+Coronary Artery Disease(CAD)
+
+:   관상동맥질환. 동맥경화 등으로 인해 관상동맥의 혈류가 불충분해져 발생하는 질환. 협심증, 심근경색증 등
+
+## Background&Importance
+
+-   기존 지침 : LDL 콜레스테롤 수치를 최소 50% 이상 낮추기 위해 고강도의 statin 치료 권장.
+
+    \>강도 조절 필요성이 줄어 간편하지만 약물 반응의 개인차와 고강도 statin 장기 사용으로 인한 부작용 우려
+
+-   LDL-C 목표 수치에 도달할 때까지 중강도 statin에서 시작하여 용량 조절하는 T2T 전략이 대안. 맞춤형 접근이 가능하며 의사-환자 간 소통을 원활하게 하여 치료 순응도를 높일 수 있음.
+
+    \>RCT에서 충분히 평가되지 않아 근거 부족.
+
+    \>이 두 방식이 CAD 환자 대상 임상시험에서 직접 비교된 적 없기에 이 연구가 의미를 가짐.
+
+## 
+
+-   **Objective** : CAD 환자 장기 임상결과에서 T2T방식이 고강도 statin 방식에 비열등한지 평가
+
+-   **Intervention** : LDL-C 수치 50\~70 mg/dL 목표의 T2T 그룹 혹은 Rosuvastatin 20mg/Atorvastatin 40mg의 고강도 statin 치료 그룹에 무작위 배정.
+
+# Methods
+
+## 
+
+Study design : 2016/09/09 \~ 2019/11/27 한국 12개 기관에서 수행.
+
+Multicentre / Randomized / Open-label ***Non-inferiority Trial*** ^1^
+
+1.  두 치료군 간 primary endpoint 발생률 차이에 대한 단측 97.5% 신뢰구간 상한치가 3.0% 미만일 경우 비열등성이 입증된 것으로 정의.
+
+\##
+
+-   Randomization : 1:1 대응 방식, 웹 기반 블록 무작위배정 사용하여 두 치료방식 그룹에 배정. Rosuvastatin이나 atorvastatin의 두 statin 중 하나를 1일1회 투여받도록 1:1 무작위배정.
+
+-   Sample Size : 3년 추적 관찰 시 발생률 각 12%로 추정. 비열등성 마진 3.0%, 단측 alpha 오차율 2.5%. 검정력 80%, 15%의 추적 관찰 탈락률
+
+    \>총 4336명 환자 필요 (+ 두 종류의 Statin 균형 고려)
+
+    \>\>최종 연구 대상 4400명
+
+-   관찰
+
+    6주,3,6,12,24,36개월에 추적 방문하여 전반적 상태와 약물 복용량, endpoint 평가 실시
+
+    6주, 12,24,36개월에 지질 검사 통해 LDL-C 수치 추적 관찰
+
+\##
+
+<img src="study design figure.png"/>
+
+\##
+
+-   Statistical Principles
+
+    범주형 데이터 : 백분율로 제시. 카이제곱 검정 혹은 피셔의 exact test 사용하여 비교
+
+    연속형 데이터 : 정규분포/왜곡된 분포에 따라 평균±표준편차 또는 중앙값으로 제시. 스튜던트 t-test 혹은 맨-휘트니 U test 사용하여 비교
+
+    primary endpoint
+
+    : 3년 시점에 누적 발생률 추정. 첫번째 interest 사건 발생까지 기준으로 Kaplan-Meier 곡선 도출. P-value \<0.05를 유의한 것으로 간주.
+
+    두 치료군 간 발생률은 로그 순위 검정으로 비교하며 95% 신뢰구간의 HR은 Cox 회귀분석을 통해 추정
+
+-   Study population
+
+    무작위 배정된 모든 집단을 포함하는 ITT 집단에서 수행되며 할당된 치료를 받지 않은 환자들을 제외한 임상순응분석(PP) 집단에 대해서도 수행.
+
+    다만 다음의 3가지 경우는 제외 : 부작용 외 이유로 총 추적기간의 5%를 초과하여 치료 중단/ T2T 군에서 목표치 도달 실패에도 용량 증량하지 않음/ 고강도 statin 군에서 고강도 statin 유지하지 않음
+
+연구대상집단
+
+## Participants
+
+## Primary Endpoint
+
+사망, 심근경색, 뇌졸중 관상동맥 혈관재개통술의 3년 복합 발생률 (비열등성 한계치 3.0%p로 설정)
+
+# Results
+
+## 
+
+## Primary Endpoints
+
+\| \| Treat-to-Target \| High-intensity Statin \|
+
+\|:-:\|:-----------------:\|:--------------:\|
+
+\| 1yr \| 8.1% (177명) \| 8.7% (190명) \|

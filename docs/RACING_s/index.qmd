@@ -1,0 +1,176 @@
+---
+title: "RACING Trial"
+subtitle: "Is moderate-intensity statin&ezetimibe more effective than high-intensity statin in ASCVD?"
+format: revealjs
+editor: visual
+---
+
+## 
+
+Atherosclerotic cardiovascular disease (ASCVD)
+
+:   죽상경화성 심혈관질환. 혈관 내벽에 콜레스테롤 축적 등으로 인한 죽상경화증으로 발생하는 심혈관 및 뇌혈관 질환 통칭.
+
+Statin
+
+:   간에서 콜레스테롤 합성 억제를 통하여 LDL cholesterol을 효과적으로 낮추는 대표적 고지혈증 치료제.
+
+Ezetimibe
+
+:   소장에서 식이성 및 담즙성 콜레스테롤 흡수 억제를 통해 LDL cholesterol을 낮추는 고지혈증 치료제.
+
+## 
+
+Non-inferiority trial
+
+:   신약이나 새로운 치료법이 기존보다 효과가 열등하지 않음을 증명하는 임상시험
+
+## Background
+
+-   적정량의 statin과 ezetimibe의 조합요법은 LDL 콜레스테롤을 낮춰 고강도 statin 단일요법의 대안이 될 뿐만 아니라 부작용도 줄일 수 있어 효과적이다.
+
+-   이 치료법의 기대치에도 불구하고 기존 메타분석 외 무작위 임상시험의 부재
+
+-   
+
+# Methods
+
+Study design : Multicentre / Randomized / Open-label
+
+**Non-inferiority Trial**
+
+## 
+
+## Participants
+
+**ASCVD 판정 환자들**
+
+-   고강도 Statin 치료 필요 + LDL 콜레스테롤 수치 70mg 미만 유지
+
+-   판정기준: 심근경색(MI)/ 급성 관상동맥 증후군/ 관상동맥 재개통술 or 동맥 혈관재형성술 이력/ 뇌경색/ 말초동맥질환 (PAD)
+
+## 
+
+-   **Randomisation**
+
+    1:1 무작위 배정
+
+    Rosuvastatin 10mg+ezetimibe 10mg OR Rosuvastatin 20mg
+
+-   **Procedures**
+
+    Combination Therapy : Rosuvastation 10mg+Ezetimibe 10mg
+
+    Monotherapy : Rosuvastation 20mg
+
+    초기 용량 유지 원칙
+
+## Primary Endpoint
+
+3년 이내 심혈관 사망, 주요 심혈관계 질환, 비치명적 뇌졸중 발생
+
+## Secondary Endpoint
+
+Clinical Efficiency
+
+Safety
+
+## Statistical Analysis
+
+1차 목적 : 3년 간의 추적 관찰 기간 동안 ITT군에서 combination therapy가 monotherapy 대비 primary endpoint 발생 측면에서 비열등성 확인
+
+*3년 간 발생률 combin 13%, high-statin 14% 예상*
+
+설정값 ) non-inferiority margin 2.0%
+
+5%의 단측 알파 오차율
+
+80% 검정력
+
+\>그룹당 1605명 환자 필요.
+
+15%의 추적관찰 탈락 추가 고려
+
+> 총 3780명의 환자 필요
+
+(figure 1 삽입)
+
+2차적 목적 : combination therapy가 monotherapy보다 LDL 콜레스테롤 수치 70mg/dL 미만 달성이라는 효능 평가 지표에서의 우월성 확인
+
+(전제)1차 목적이 유의미할 경우 2차적으로 검정
+
+*IMPROVE-IT 연구 결과 기반, combin theraphy 70%, monotherapy 50% 가정*
+
+설정값 ) 5% 단측 알파 오차율
+
+80% 검정력
+
+15% 추적 관찰 탈락 예상
+
+> 총 220명 환자 필요 \> 1차 목적 표본 크기로 충분
+
+실행 조건
+
+primary endpoint ) 단측 95% 신뢰구간, 상한값 2.0% 미만. 97.5% 신뢰구간 상한값까지 사후 분석함.
+
+secondary endpoint of clinical efficiency) 로그순위검정. 다중성 조정 이루어지지 않아 탐색적인 분석 결과로 간주
+
+주요 분석 ) 무작위 배정된 모든 환자 포함 ITT 군에서 수행
+
+민감도 분석 ) 배정된 치료를 받지 않은 환자 제외한 PP군에서 수행
+
+안정성 결과 평가) 배정된 치료 받지 않은 환자 제외한 안전성 분석군 대상 수행.
+
+다만, 불내성으로 인한 중단/용량 감량 환자는 포함함.
+
+# Results
+
+2017/02/14 \~ 2018/12/18 총 3780명 대상.
+
+combination therapy 1894명
+
+high-statin monotherapy 1886명
+
+## Primary Endpoint
+
+주요 분석 : combination therapy 9.1% (172명) \> high-statin monotherapy 9.9% (186명)
+
+민감도 분석 : combination therapy 9.1% (160명) \> high-statin monotherapy 9.4% (158명)
+
+## Secondary Endpoint : Efficiency
+
+#### LDL 콜레스테롤 수치 \<70mg/dL (ITT군 3년 추적관찰 결과)
+
+\| \| Rosuvastatin 10mg + ezetimibe 10mg \| Rosuvastatin 20mg \|
+
+\|:---:\|:--------------------------------:\|:------------------:\|
+
+\| 1yr \| 73% \| 55% \|
+
+\| 2yr \| 75% \| 60% \|
+
+\| 3yr \| 72% \| 58% \|
+
+## Secondary Endpoint : Safety
+
+약물 중단은 88명 (4.8%) , 약물 투여량 감소는 150명 (8.2%) 나타남
+
+# Discussion
+
+## 
+
+moderate-intensity with ezetimibe combination therapy는 심혈관 사망, 주요 심혈관계 질환, 비치명적 뇌졸중의 3년 평가지표에서 high-intensity statin monotherapy에 비열등한 것으로 나타남.
+
+부가적으로, LDL 콜레스테롤 수치 70mg/dL 달성률이 더 높으며 약물 불내성으로 인한 복용 중단이라 용량 감량 발생률이 더 낮은 상태에서 비열등성이 입증됨.
+
+설계 의도
+
+설계 시 복합요법이 LDL 농도를 더 감소시킬 것이 예상되었지만, 더 많은 환자를 모아야한다는 점으로 인하여 우월성 연구 설계가 불가하였음.
+
+임상적 의미
+
+고강도 statin이 불가피했던 ASCVD 환자들에게 combination therapy를 통해 더 높은 효능과 더 낮은 위험의 치료 가능
+
+기존 연구와의 차별점
+
+한계점
